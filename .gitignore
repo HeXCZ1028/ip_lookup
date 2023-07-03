@@ -1,0 +1,3 @@
+# ignore directory
+cmake-build-debug/
+utility/
