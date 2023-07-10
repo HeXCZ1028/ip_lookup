@@ -140,5 +140,4 @@ vector<string> IpFind::split(const string &str,const char delimiter) {
         result.push_back(ele);
     }
     return result;
-
 }
